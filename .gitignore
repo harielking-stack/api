@@ -1,0 +1,22 @@
+# Ignore directory
+vendor/
+# uploads/
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore environment-specific files
+#.env
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
